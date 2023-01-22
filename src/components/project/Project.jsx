@@ -45,7 +45,7 @@ const Project = () => {
       title: "Kamalesh Portfolio",
       github: "https://github.com/Mr-S-Kamalesh/portfolio-react",
       img: "/assets/portfolio.png",
-      live: "",
+      live: "https://react-own-portfolio.netlify.app/",
     },
   ];
 
